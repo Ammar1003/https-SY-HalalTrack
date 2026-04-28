@@ -5,7 +5,8 @@ Sistem pengurusan sijil halal, latihan, dan kesihatan staf — hosted di GitHub 
 ## 🌐 Pautan Website
 Selepas setup, website anda akan tersedia di:
 ```
-https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/
+https-SY-HalalTrack
+
 ```
 
 ---
